@@ -25,7 +25,14 @@ body:
       placeholder: write your step by step treasure map here!
     validations:
       required: true
-
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Show us what happened
+      description: post your best screenshot of your bug
+      placeholder: paste them here
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
