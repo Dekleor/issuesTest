@@ -18,28 +18,43 @@ body:
       placeholder: username / Discord ID
     validations:
       required: true
+
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
-      description: jot down the details of what happened and what should have happened?
-      placeholder: write your step by step treasure map here!
-    validations:
-      required: true
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Show us what happened
-      description: post your best screenshot of your bug
-      placeholder: drag & drop your screenshot here
-    validations:
-      required: false
-  - type: textarea
-    id: repro
-    attributes:
-      label: Tell us how this happened
-      description: write a step by step sequence of your actions
-      placeholder: "write here" 
+      placeholder: Write here the bug you encountered!
     validations:
       required: true
 
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: attach your screenshots
+      placeholder: click in this area than drag & drop your file(s)
+    validations:
+      required: false
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: How it happened?
+      placeholder: Give us the most detailed sequence of actions you did to get your bug
+    validations:
+      required: true
+
+  - type: textarea
+    id: statistics
+    attributes:
+      label: what are your performances on Menyr?
+      placeholder: screen what you have in the statistics menu on Menyr and paste the screenshot here
+    validations:
+      required: true
+
+  - type: textarea
+    id: version
+    attributes:
+      label: Which version of Menyr are you using ?
+      placeholder: Write down the version you're currently playing on
+    validations:
+      required: true
