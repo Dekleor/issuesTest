@@ -1,4 +1,4 @@
-# Menyr
+![alt text](https://pb-files.s3.amazonaws.com/production/portal_logos/74c4a3824c325a1bdfe4bc97ca5ba3819ff2103b659b417de714bdd6a458bebe/0916640f9e816fe6344f8e1d87254a12.png?1684445076)
 
 Menyr is currently in an exclusive closed beta phase, and we couldn't be more thrilled to give you early access to our software! We highly value your input and feedback during this exciting stage.
 
