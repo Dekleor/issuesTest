@@ -3,6 +3,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
 assignees:
+  - ""  
 
 body:
   - type: markdown
@@ -30,7 +31,7 @@ body:
     attributes:
       label: Show us what happened
       description: post your best screenshot of your bug
-      placeholder: paste them here
+      placeholder: drag & drop your screenshot here
     validations:
       required: false
   - type: checkboxes
