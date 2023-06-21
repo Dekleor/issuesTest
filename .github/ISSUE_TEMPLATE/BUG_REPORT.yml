@@ -34,11 +34,12 @@ body:
       placeholder: drag & drop your screenshot here
     validations:
       required: false
-  - type: checkboxes
-    id: terms
+  - type: textarea
+    id: repro
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Tell us how this happened
+      description: write a step by step sequence of your actions
+      placeholder: "" 
+    validations:
+      required: true
+
