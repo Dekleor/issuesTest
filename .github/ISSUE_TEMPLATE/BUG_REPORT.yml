@@ -15,7 +15,7 @@ body:
     attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more info?
-      placeholder: username / Discord ID
+      placeholder: Username
     validations:
       required: true
 
@@ -30,8 +30,8 @@ body:
   - type: textarea
     id: screenshots
     attributes:
-      label: attach your screenshots
-      placeholder: click in this area than drag & drop your file(s)
+      label: Attach your screenshots
+      placeholder: Click in this area then drag & drop your file(s)
     validations:
       required: false
 
@@ -46,10 +46,10 @@ body:
   - type: textarea
     id: statistics
     attributes:
-      label: what are your performances on Menyr?
-      placeholder: screen what you have in the statistics menu on Menyr and paste the screenshot here
+      label: What are your performances on Menyr?
+      placeholder: Screen what you have in the statistics menu on Menyr and paste the screenshot here
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: version
