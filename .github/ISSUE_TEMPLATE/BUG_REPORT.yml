@@ -39,7 +39,7 @@ body:
     attributes:
       label: Tell us how this happened
       description: write a step by step sequence of your actions
-      placeholder: "" 
+      placeholder: "write here" 
     validations:
       required: true
 
