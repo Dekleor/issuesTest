@@ -11,7 +11,7 @@ Follow this link to share your suggestions: [Feature Requests](https://portal.pr
 
 ---
 
-## How to Report a Bug
+## ![alt text](https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless) How to Report a Bug
 
 If you encounter any technical issues or bugs while using the application, we invite you to report them so that our team can review and resolve them quickly. Your contribution is essential in helping us improve Menyr.
 
@@ -27,7 +27,7 @@ If you have any further questions or need additional assistance, please don't he
 
 ---
 
-## Useful links
+## ![alt text](https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless) Useful links
 
 - [Menyr official website](https://menyr.nogstudio.com)
 - [Official Discord](https://discord.gg/menyr)
