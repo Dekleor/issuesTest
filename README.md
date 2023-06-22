@@ -1,6 +1,8 @@
+
 <p align="center">
-![alt text](https://pb-files.s3.amazonaws.com/production/portal_logos/74c4a3824c325a1bdfe4bc97ca5ba3819ff2103b659b417de714bdd6a458bebe/0916640f9e816fe6344f8e1d87254a12.png?1684445076)
+  <img src="https://cdn.discordapp.com/attachments/1110118390535827456/1121336039101956126/optimized_Splash_Art_Wide.png" alt="alt text">
 </p>
+
 
 Menyr is currently in an exclusive closed beta phase, and we couldn't be more thrilled to give you early access to our software! We highly value your input and feedback during this exciting stage.
 
@@ -13,7 +15,7 @@ Follow this link to share your suggestions: [Feature Requests](https://portal.pr
 
 ---
 
-## ![alt text](https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless) How to Report a Bug
+## <img src="https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless" alt="alt text" width=auto height="50"> How to Report a Bug
 
 If you encounter any technical issues or bugs while using the application, we invite you to report them so that our team can review and resolve them quickly. Your contribution is essential in helping us improve Menyr.
 
@@ -29,7 +31,7 @@ If you have any further questions or need additional assistance, please don't he
 
 ---
 
-## ![alt text](https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless) Useful links
+## <img src="https://cdn.discordapp.com/emojis/1121060788900212896.webp?size=96&quality=lossless" alt="alt text" width=auto height="50"> Useful links
 
 - [Menyr official website](https://menyr.nogstudio.com)
 - [Official Discord](https://discord.gg/menyr)
