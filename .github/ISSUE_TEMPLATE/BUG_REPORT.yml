@@ -23,7 +23,7 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      placeholder: Write here the bug you encountered!
+      placeholder: Explain here the bug you encountered!
     validations:
       required: true
 
@@ -39,22 +39,22 @@ body:
     id: repro
     attributes:
       label: How it happened?
-      placeholder: Give us the most detailed sequence of actions you did to get your bug
+      placeholder: Give us the sequence of actions you did before you encountered your bug (the more detailed the better)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: version
+    attributes:
+      label: Which version of Menyr are you using?
+      placeholder: Write down the version you're currently playing on
     validations:
       required: true
 
   - type: textarea
     id: statistics
     attributes:
-      label: What are your performances on Menyr?
+      label: Your stats on Menyr
       placeholder: Screen what you have in the statistics menu on Menyr and paste the screenshot here
     validations:
       required: false
-
-  - type: textarea
-    id: version
-    attributes:
-      label: Which version of Menyr are you using ?
-      placeholder: Write down the version you're currently playing on
-    validations:
-      required: true
